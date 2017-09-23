@@ -1,2 +1,2 @@
 # CodeIgniter CMS tutorial
-By David Connelly
+By David Connelly from DC Radio Network
