@@ -24,8 +24,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = 'https://ci-tutorial-aberkalns.c9users.io/';
-$config['base_url'] = 'https://morning-reaches-17904.herokuapp.com/';
-
+//$config['base_url'] = 'https://morning-reaches-17904.herokuapp.com/';
+$config['base_url'] = "https://".$_SERVER['SERVER_NAME']."/";
 /*
 |--------------------------------------------------------------------------
 | Index File
